@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/rifatblack/rifatblack-master/assets/Hi.gif" height="30px" />, I'm Rifat</h1>
+<h1 align="center">Hi <img src="https://github.com/rifatblack/assets/Hi.gif" height="30px" />, I'm Rifat</h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
 
  
